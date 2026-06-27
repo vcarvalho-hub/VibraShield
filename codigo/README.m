@@ -1,3 +1,2 @@
-# Código
-
-Nesta pasta está o código do ESP32.
+Aqui está o código do projeto.
+explicação do código:
