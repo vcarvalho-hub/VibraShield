@@ -1,9 +1,0 @@
-{
-  "cpu": {
-    "fqbn": "esp32:esp32:esp32",
-    "name": "",
-    "type": "serial"
-  },
-  "secrets": [],
-  "included_libs": []
-}
