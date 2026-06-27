@@ -1,2 +1,1 @@
-# VibraShield
-GitHub do Projeto VibraShield
+Aqui estão as imagens do protótipo.
